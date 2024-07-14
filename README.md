@@ -5,7 +5,8 @@ Creación de una API Rest usando Spring para la Formación en Desarrollo Backend
 
 Objetivo:
 Nuestra API se centrará específicamente en los tópicos, y debe permitir a los usuarios: Crear un nuevo tópico. Mostrar todos los tópicos creados. Mostrar un tópico específico. Actualizar un tópico. Eliminar un tópico.
-🔨Funcionalidades del proyecto
+
+Funcionalidades del proyecto
 API con rutas implementadas siguiendo las mejores prácticas del modelo REST.
 
 Validaciones realizadas según las reglas de negocio.
